@@ -1,8 +1,8 @@
 {
-  "name": "project-practica",
+  "name": "project-galery",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Es un proyecto para conectarse con la api de claudynary",
+  "author": "Facundo Burgos",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
